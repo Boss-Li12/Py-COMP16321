@@ -1,0 +1,9 @@
+[user_name]
+Formatting ###################
+Number of upper case words changed: 3
+Number of punctuations removed: 15
+Number of numbers removed: 6
+Spellchecking ###################
+Number of words: 67
+Number of correct words: 63
+Number of incorrect words: 4
